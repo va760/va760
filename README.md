@@ -2,64 +2,104 @@
 
 # 👑 MrrTho Official
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Welcome+To+My+GitHub+👋;Web+Developer+💻;Roblox+Creator+🎮;Telegram+Bot+Developer+🤖;Full+Stack+Learner+🌐" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00FFC6&center=true&vCenter=true&width=750&lines=HTML+CSS+JavaScript+Developer+💻;Python+Flask+Developer+🐍;Roblox+Creator+🎮;Telegram+Bot+Developer+🤖" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🚀 DEVELOPER PROFILE
 
-```txt id="5j3fxu"
-💻 Web Developer
-🎮 Roblox Creator
-🤖 Telegram Bot Developer
-🌐 Full Stack Learner
-💎 Top-Up Website Creator
+<table>
+<tr>
+<td width="50%">
+
+## 👨‍💻 ABOUT ME
+
+```txt id="x8x0j4"
+Name      : MrrTho Official
+Role      : Full Stack Developer
+Status    : Online 🟢
+Country   : Cambodia 🇰🇭
+Learning  : Advanced Web Systems
+```
+
+</td>
+
+<td width="50%">
+
+## ⚡ SPECIALITY
+
+```txt id="f0m8tv"
+✔ HTML UI Design
+✔ CSS Animation
+✔ JavaScript Systems
+✔ Python Flask Backend
+✔ Roblox Studio Lua
+✔ Telegram Bot API
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠 TECH STACK
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge\&logo=flask)
+
+</div>
+
+---
+
+# 📦 PROJECT SYSTEMS
+
+```txt id="3q3x67"
+[✔] Free Fire Top-Up Website
+[✔] Telegram Shop Bot
+[✔] Roblox Cambodian RP
+[✔] Admin Dashboard System
+[✔] QR Payment Integration
+[✔] Responsive Mobile UI
 ```
 
 ---
 
-# 🛠 Tech Stack
+# 📊 GITHUB ANALYTICS
 
-```txt id="9xxskz"
-HTML
-CSS
-JavaScript
-Python
-Flask
-MySQL
-Lua
-Roblox Studio
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🌍 CONTACT
+
+<div align="center">
+
+Telegram : @vayshopk
+Facebook : MrrTho Official
+
+</div>
+
+---
+
+<div align="center">
+
+```txt id="3j6p7e"
+SYSTEM STATUS : RUNNING 🟢
+██████████████████████ 100%
 ```
 
----
-
-# 🔥 Projects
-
-* 💎 Free Fire Top-Up Website
-* 🎮 Cambodian City RP
-* 🤖 Telegram Order Bot
-* 📱 Mobile Responsive UI
-
----
-
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-# 🌍 Connect With Me
-
-* Facebook: MrrTho Official
-* Telegram: @yourusername
-
----
-
-# ⚡ Quote
-
-> "Code. Create. Conquer."
-
+</div>
